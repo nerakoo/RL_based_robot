@@ -2,7 +2,7 @@
 
 This code is based on GA to achieve the control of the robot, the effect is as follows:
 
-<video src="C:\Users\34049\Desktop\video\show.mp4"></video>
+<video src="./video/show.mp4"></video>
 
 
 
